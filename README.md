@@ -30,9 +30,6 @@ This project is a simple **Face Recognition Attendance System** built with Pytho
 ├── Attendance.csv # CSV file to log attendance
 ├── requirements.txt # List of dependencies
 
-markdown
-Copier
-Modifier
 
 ## Installation
 
