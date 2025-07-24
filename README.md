@@ -54,4 +54,5 @@ You can manually inspect or clear Attendance.csv as needed.
 
 Author
 Ramy Garici
+https://github.com/RamyGarici
 
